@@ -30,7 +30,6 @@ This project uses the pretrained model:
 
 The model is designed for English news-style summarization and generates shorter versions of input text while attempting to preserve its main ideas.
 
-Model page: https://huggingface.co/sshleifer/distilbart-cnn-12-6
 
 ##  Project Structure
 
@@ -49,6 +48,15 @@ Text_Summarization/
 * VS Code or another Python editor
 * Required Python libraries listed in `requirements.txt`
 
+
+## Application link - 
+
+
+## Application preview
+<img width="1317" height="575" alt="image" src="https://github.com/user-attachments/assets/ec39ccf4-5039-4009-a973-d2b84fac597a" />
+<img width="1319" height="548" alt="image" src="https://github.com/user-attachments/assets/1eb73aa2-852a-4075-99aa-da8863bd22fd" />
+
+
 ## Installation and Setup
 
 ### Step 1: Clone the Repository
@@ -56,7 +64,7 @@ Text_Summarization/
 If your project is hosted on GitHub, run:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/nikithanka7-byte/Text-Summarization/tree/main
 ```
 
 Navigate to the project directory:
